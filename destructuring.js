@@ -93,7 +93,9 @@ function ingredients(obj){
 */
 
 //Code Here
-
+function largeNumbers({first, second, third}) {
+  largeNumbers.filter()
+} 
 
 
 ////////// PROBLEM 6 //////////
